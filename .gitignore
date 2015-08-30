@@ -1,57 +1,36 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+#Cooper ily lol i needed a good example lol
+#noshame
+#Zacks a furry too
 
-# C extensions
-*.so
+done = 'Done!'
+class start():
+    def begin():
+        name = input('Hello what is your name? ')
+        print(' ')
+        faggot = input('Cooper is a furry dont you agree %s ' % name)
+        if faggot == 'yes':
+            print(' ')
+            print('Correct, indeed he is')
+            start.yay()
+        elif faggot == 'Yes':
+            print(' ')
+            print('Correct, indeed he is')
+            start.yay()
+        elif faggot == 'No':
+            print(' ')
+            print('You are a furry too faggot')
+            start.gay()
+        elif faggot == 'no':
+            print(' ')
+            print('You are a furry too faggot')
+            start.gay()
+        else:
+            start.begin()
+    def yay():
+        print('Lol im just practicing coding')
+    def gay():
+        print('You suck yah fox loving gay boi')
 
-# Distribution / packaging
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*,cover
-
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-*.log
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
+start.begin()
+print(' ')
+print(done)
